@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h6 align="left">👋 Welcome to my GitHub Kingdom! 👑<br><br>🚀 "git" ready for a code-tastic adventure through the realms of commits and branches. 🌟<br><br>🧙‍♂️ Beware of merge conflicts - only the bravest survive! 🗡️<br><br>🤖 We've got code so clean, even Marie Kondo would be proud! ✨<br><br>🪙 Leave a star ⭐ if you find my repos as precious as Gollum's "precious." 💍<br><br>🌌 May your forks be many and your bugs be few. 🍴🐛<br><br>🌮 Grab a byte of code and let's taco 'bout your contributions! 🌮<br><br>🌐 Join me on this epic quest to conquer the digital realms! 🌍<br><br>🚁 Strap in, because we're about to take off on the open-source rocket ship! 🚀🌌<br><br>🧝‍♂️ Thanks for venturing into my code-forged universe. Happy coding! 🧝‍♀️</h6>
 
 ###
 
@@ -38,7 +38,9 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/ecouaek3w2ju1j277zkgs09zs">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
