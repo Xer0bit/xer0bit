@@ -69,9 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/xer0bit/xer0bit/output/snake.svg" alt="Snake animation" />
 
 ###
 
