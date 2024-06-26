@@ -84,7 +84,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://gifdb.com/images/high/programming-science-and-tech-information-technology-osuhf5nmoynhq8fk.webp"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w5a2ZjNG1kdWJsMTJybWp5MWx3OWtwcm9xejljdTN6OXd3ZnN6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gKCh5SiWhid0X9CmyU/giphy.webp"  />
 
 ###
 
