@@ -1,41 +1,72 @@
-<h2 align="center">👋 Welcome to my Code Realm! 👑</h2>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+I'm+Muhammad+Sameer+Akram)](https://git.io/typing-svg)  
+
+<div align="left">
+
+# 👨‍💻 Muhammad Sameer Akram
+
+## 🌍 About Me
+> Python Developer specialized in machine learning and AI integration with 1+ year of industrial experience. Currently pursuing Software Engineering while building innovative solutions through creativity and expertise.
+
+## 🎓 Education
+- **BSE [Erasmus +]** - Istanbul Aydin University (2023 - 2024)
+- **BSE** - Superior University (2021 - 2025)
+- **ML & IT Certification** - NVTTC, Superior University (2022)
+
+## 💻 Skills & Expertise
+```python
+{
+    "core": ["Data Science", "Machine Learning", "Software Engineering", "Database Management"],
+    "tech": ["Python", "ML Algorithms", "AI Integration"],
+    "soft_skills": ["Problem-solving", "Teamwork", "Communication"]
+}
+```
+
+## 🔭 Professional Journey
+- **AI Engineer** @ 38_Digital
+- **Python Developer** @ BabbleLabs (Cisco Systems)
+- **ML Engineer** @ Bitlogicx
+- **Community Admin** @ "The Big Picture"
+
+## 🚀 Featured Projects
+### BookWriter-LLaMA3.1-OPENAI
+Automated book writing tool using GPT API & LLaMA 3.1
+
+### BRP-SizeMeasure
+Foot measurement system with object detection
+
+### LiveVoiceTranslation
+Real-time speech translation platform
+
+### Energy Enhancement System
+K-Centroid clustering for device optimization
+
+## 📊 GitHub Stats
 
 <p align="center">
-🚀 Let's embark on a coding adventure! <br>
-🧙‍♂️ Brave the merge conflicts! <br>
-🤖 Clean code, happy dev! <br>
-⭐ Star if you love optimized algorithms! <br>
-🌌 Forks aplenty, bugs few! 🍴🐛 <br>
-🌮 Let's taco 'bout code! 🌮 <br>
-🚀 Join my open-source journey! 🌌 <br>
-🧝‍♂️ Thanks for visiting. Happy coding! 🧝‍♀️
+<img src="https://streak-stats.demolab.com?user=xer0bit&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xer0bit&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xer0bit&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p align="center">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xer0bit&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham" />
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=xer0bit&show_icons=true&theme=gotham" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-</div>
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
+</p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ecouaek3w2ju1j277zkgs09zs">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-samiullah/)
 
-<div align="center">
-  <a href="mailto:sameersamiullah02@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="77" height="45" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/sameer-samiullah/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="77" height="45" alt="linkedin logo" />
-  </a>
-</div>
-                               
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=xer0bit&style=flat-square" alt="Profile views"/>
+</p>
 
+</div>
+</div>
