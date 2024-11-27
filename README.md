@@ -4,69 +4,88 @@
 
 <div align="left">
 
-# 👨‍💻 Muhammad Sameer Akram
-
 ## 🌍 About Me
-> Python Developer specialized in machine learning and AI integration with 1+ year of industrial experience. Currently pursuing Software Engineering while building innovative solutions through creativity and expertise.
+Python Developer with expertise in machine learning and AI integration. Over 1 year of industrial experience developing custom algorithms and tools, including web scraping and chatbots. Currently pursuing a Bachelor's in Software Engineering. Committed to creating innovative solutions to complex challenges through creativity and expertise.
 
 ## 🎓 Education
-- **BSE [Erasmus +]** - Istanbul Aydin University (2023 - 2024)
-- **BSE** - Superior University (2021 - 2025)
-- **ML & IT Certification** - NVTTC, Superior University (2022)
+- **Bachelor's of Software Engineering [Erasmus +]**  
+  Istanbul Aydin University (2023 - 2024)
+- **Bachelor's of Software Engineering**  
+  Superior University (2021 - 2025)
+- **Machine Learning & Information Technology**  
+  National Vocational and Technical Training Commission, Superior University (2022)
 
-## 💻 Skills & Expertise
-```python
-{
-    "core": ["Data Science", "Machine Learning", "Software Engineering", "Database Management"],
-    "tech": ["Python", "ML Algorithms", "AI Integration"],
-    "soft_skills": ["Problem-solving", "Teamwork", "Communication"]
-}
-```
+## 💻 Technical Skills
+- **Core:** Data Science, Machine Learning, Software Engineering, Database Management
+- **Languages & Tools:** Python, Machine Learning Algorithms, AI Integration
+- **Soft Skills:** Problem-solving, Teamwork, Communication, Adaptability, Creativity
 
-## 🔭 Professional Journey
-- **AI Engineer** @ 38_Digital
-- **Python Developer** @ BabbleLabs (Cisco Systems)
-- **ML Engineer** @ Bitlogicx
-- **Community Admin** @ "The Big Picture"
+## 🔭 Experience
+- **AI Engineer** at 38_Digital
+- **Python Developer** at BabbleLabs, Inc. (Cisco Systems)
+- **Machine Learning Engineer** at Bitlogicx
+- **Community Administrator** at "The Big Picture", Superior University
 
-## 🚀 Featured Projects
-### BookWriter-LLaMA3.1-OPENAI
-Automated book writing tool using GPT API & LLaMA 3.1
+## 🚀 Notable Projects
+- **BookWriter-LLaMA3.1-OPENAI**
+  A revolutionary tool leveraging GPT API and LLaMA 3.1 model for automated book writing, enabling local content generation and enhancing author creativity.
 
-### BRP-SizeMeasure
-Foot measurement system with object detection
+- **BRP-SizeMeasure**
+  Python application for foot size measurement from images using advanced object detection and background removal, generating detailed PDF reports with precise dimensions.
 
-### LiveVoiceTranslation
-Real-time speech translation platform
+- **LiveVoiceTranslation**
+  Real-time web application for speech-to-text conversion with immediate language translation capabilities, supporting multiple languages and instant communication.
 
-### Energy Enhancement System
-K-Centroid clustering for device optimization
+- **Electrical Device Energy Enhancement**
+  Implementation of K-Centroid clustering algorithm for optimizing electrical device energy consumption patterns.
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=xer0bit&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xer0bit&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham" />
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=xer0bit&show_icons=true&theme=gotham" />
-</p>
-
-## 🛠️ Tech Stack
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
-</p>
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-samiullah/)
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=xer0bit&style=flat-square" alt="Profile views"/>
-</p>
+## 📫 Contact
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sameer-samiullah/)
 
 </div>
+
+[![Gia href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xer0bit&theme=dark&hide_border=true" alt="GitHub Streak" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xer0bit&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=xer0bit&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xer0bit&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xer0bit/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture>  
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ecouaek3w2ju1j277zkgs09zs&count=3)
+
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xer0bit&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=xer0bit&style=flat-square)
 </div>
