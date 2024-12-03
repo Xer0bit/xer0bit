@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Hello!+I'm+Muhammad+Sameer+Akram)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=600&lines=I'm+Muhammad+Sameer+Akram)](https://git.io/typing-svg)  
 
 <div align="left">
 
 ## 🌍 About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250">
 
 Python Developer with expertise in machine learning and AI integration. Over 1 year of industrial experience developing custom algorithms and tools, including web scraping and chatbots. Currently pursuing a Bachelor's in Software Engineering. Committed to creating innovative solutions to complex challenges through creativity and expertise.
 
@@ -23,7 +23,7 @@ Python Developer with expertise in machine learning and AI integration. Over 1 y
 - **Soft Skills:** Problem-solving, Teamwork, Communication, Adaptability, Creativity
 
 ## 🔭 Experience & Projects
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
 - **AI Engineer** at 38_Digital
 - **Python Developer** at BabbleLabs, Inc. (Cisco Systems)
