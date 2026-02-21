@@ -23,7 +23,6 @@ Python Developer with expertise in machine learning and AI integration. Over 3 y
 - **Soft Skills:** Problem-solving, Teamwork, Communication, Adaptability, Creativity
 
 ## 🔭 Experience & Projects
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
 - **AI Engineer** at 38_Digital
 - **Python Developer** at BabbleLabs, Inc. (Cisco Systems)
