@@ -33,17 +33,6 @@ Python Developer with expertise in machine learning and AI integration. Over 3 y
 - **LiveVoiceTranslation**: Real-time speech translation web app
 - **Energy Enhancement**: K-Centroid clustering for power optimization
 
-## 📊 GitHub Stats
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img width="400" src="https://streak-stats.demolab.com?user=xer0bit&theme=dark&hide_border=true" alt="GitHub Streak"/></a>
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=xer0bit&show_icons=true&theme=gotham"/>
-</p>
-
-<p align="center">
-<img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xer0bit&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=gotham"/>
-</p>
-
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=xer0bit&theme=nord&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
