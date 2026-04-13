@@ -33,8 +33,6 @@ Python Developer with expertise in machine learning and AI integration. Over 3 y
 - **LiveVoiceTranslation**: Real-time speech translation web app
 - **Energy Enhancement**: K-Centroid clustering for power optimization
 
-## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=xer0bit&theme=nord&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠 Tech Stack
 <p align="center">
